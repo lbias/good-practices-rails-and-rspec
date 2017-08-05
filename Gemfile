@@ -23,6 +23,7 @@ group :development, :test do
   # test environment
   gem 'shoulda-matchers'
   gem 'database_cleaner'
+  gem 'faker'
 end
 
 group :development do
